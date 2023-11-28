@@ -1,0 +1,4 @@
+.root {
+    -fx-background-image: url('crime.jpeg');
+    -fx-background-size: cover;
+}
